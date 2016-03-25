@@ -10,8 +10,8 @@
 
 ## Novels
 
-- The Martian :white_check_mark:
-- The Windup Girl :white_check_mark:
-- The Fear Index :white_check_mark:
-- The Smylei´s People :white_check_mark:
-- The city and the city :white_check_mark:
+- :white_check_mark: The Martian
+- :white_check_mark: The Windup Girl
+- :white_check_mark: The Fear Index
+- :white_check_mark: The Smylei´s People
+- :white_check_mark: The city and the city 
