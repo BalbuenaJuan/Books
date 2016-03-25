@@ -31,7 +31,7 @@
 
 ## Society
 
-- :white_check_mark:The Shock doctrine
+- :white_check_mark: The Shock doctrine
 - :white_check_mark: This Change Everything
 - :white_check_mark: The Rational Optimist
 - :white_check_mark: Curso urgente de politica para gente decente
@@ -39,9 +39,9 @@
 
 ## History
 - :white_check_mark: The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution
-- :white_check_mark: Sapiens
+- :white_check_mark: Sapiens a Brief History of Humanity
 
 ## Science
 
 - :white_check_mark: Origins
-- :white_check_mark: To Explain The World 
+- :white_check_mark: To Explain The World
