@@ -16,7 +16,7 @@
 - :white_check_mark: The Smylei´s People
 - :white_check_mark: The city and the city
 
-## Web Delopment
+## Web Development
 
 - :white_check_mark: Smashing Book 4
 - :white_check_mark: JavaScript & jQuery
