@@ -23,3 +23,25 @@
 - :clock630: Eloquent JavaScript
 - :soon: JavaScript The Good Parts
 - :soon: Ninja JavaScript
+
+## Essay
+
+- :white_check_mark: Think fast, Think slow
+- :white_check_mark: The Black Swan
+
+## Society
+
+- :white_check_mark:The Shock doctrine
+- :white_check_mark: This Change Everything
+- :white_check_mark: The Rational Optimist
+- :white_check_mark: Curso urgente de politica para gente decente
+- :clock630: Why Nations Fail
+
+## History
+- :white_check_mark: The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution
+- :white_check_mark: Sapiens
+
+## Science
+
+- :white_check_mark: Origins
+- :white_check_mark: To Explain The World 
