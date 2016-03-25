@@ -1,7 +1,8 @@
 # Reads
 
 > :books: A list of physical books I was read, Im reading and I will read
-### If you have book recommendations for me, please create a Pull Request.
+
+### If you have book recommendations for me, please create a Pull Request adding a link at the end of [(http://github.com/BalbuenaJuan/Books/inbox.markdown)].
 
 ##State
 
