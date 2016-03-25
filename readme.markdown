@@ -2,7 +2,13 @@
 
 > A list of physical books I was read, Im reading and I will read
 
-## Novels
+##State
+
+- :white_check_mark: Readed
+- :clock630: Reading
+- :soon: Not started
+
+## :books: Novels
 
 - The Martian
 - The Windup Girl
