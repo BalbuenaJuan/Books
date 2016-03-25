@@ -2,7 +2,7 @@
 
 > :books: A list of physical books I was read, Im reading and I will read
 
-### If you have book recommendations for me, please create a Pull Request adding a link at the end of [inbox.markdown](https://github.com/BalbuenaJuan/Books/blob/master/inbox.markdown).
+If you have book recommendations for me, please create a Pull Request adding a link at the end of [inbox.markdown](https://github.com/BalbuenaJuan/Books/blob/master/inbox.markdown).
 
 ##State
 
