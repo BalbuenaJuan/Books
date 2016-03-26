@@ -15,7 +15,7 @@ If you have book recommendations for me, please create a Pull Request adding a l
 - :white_check_mark: The Martian - [Link](http://www.amazon.com/Martian-Novel-Andy-Weir/dp/0804139024/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1458993845&sr=8-2)
 - :white_check_mark: The Windup Girl - [Link](http://www.amazon.com/Windup-Girl-Paolo-Bacigalupi/dp/1597801577/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1458993930&sr=1-1)
 - :white_check_mark: The Fear Index - [Link](http://www.amazon.com/Fear-Index-Robert-Harris/dp/0307948110/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1458994005&sr=1-1)
-- :white_check_mark: The Smylei´s People - [Link](http://www.amazon.com/Smileys-People-George-Smiley-Novel/dp/014311977X/ref=sr_1_1?s=books&ie=UTF8&qid=1458994121&sr=1-1&keywords=The+Smiley+people)
+- :white_check_mark: The Smileys People - [Link](http://www.amazon.com/Smileys-People-George-Smiley-Novel/dp/014311977X/ref=sr_1_1?s=books&ie=UTF8&qid=1458994121&sr=1-1&keywords=The+Smiley+people)
 - :white_check_mark: The city and the city - [Link](http://www.amazon.com/City-Random-House-Readers-Circle/dp/034549752X/ref=sr_1_1?s=books&ie=UTF8&qid=1458994170&sr=1-1&keywords=the+city+and+the+city)
 
 ## Web Development
@@ -28,8 +28,8 @@ If you have book recommendations for me, please create a Pull Request adding a l
 
 ## Essay
 
-- :white_check_mark: Think fast, Think slow
-- :white_check_mark: The Black Swan
+- :white_check_mark: Think fast, Think slow - [Link](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1458994704&sr=1-1)
+- :white_check_mark: The Black Swan - [Link](http://www.amazon.com/Black-Swan-Impact-Improbable-Incerto/dp/1400063515/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1458994745&sr=1-1)
 
 ## Society
 
