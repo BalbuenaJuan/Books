@@ -4,7 +4,7 @@
 
 If you have book recommendations for me, please create a Pull Request adding a link at the end of [inbox.markdown](https://github.com/BalbuenaJuan/Books/blob/master/inbox.markdown).
 
-##State
+## State
 
 - :white_check_mark: Read
 - :clock630: Reading
@@ -28,7 +28,7 @@ If you have book recommendations for me, please create a Pull Request adding a l
 
 ## Essay
 
-- :white_check_mark: Think fast, Think slow - [Link](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1458994704&sr=1-1)
+- :white_check_mark: Thinking, Fast and Slow - [Link](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1458994704&sr=1-1)
 - :white_check_mark: The Black Swan - [Link](http://www.amazon.com/Black-Swan-Impact-Improbable-Incerto/dp/1400063515/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1458994745&sr=1-1)
 
 ## Society
@@ -45,5 +45,5 @@ If you have book recommendations for me, please create a Pull Request adding a l
 
 ## Science
 
-- :white_check_mark: Origins
-- :white_check_mark: To Explain The World
+- :white_check_mark: Origins - [Link](http://www.amazon.com/Origins-Fourteen-Billion-Cosmic-Evolution/dp/0393350398/ref=sr_1_sc_1?ie=UTF8&qid=1459018126&sr=8-1-spell&keywords=origins+neyl)
+- :white_check_mark: To Explain The World - [Link](http://www.amazon.com/Explain-World-Discovery-Modern-Science/dp/0062346652/ref=mt_hardcover?_encoding=UTF8&me=)
