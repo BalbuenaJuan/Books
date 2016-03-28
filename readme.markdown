@@ -33,11 +33,11 @@ If you have book recommendations for me, please create a Pull Request adding a l
 
 ## Society
 
-- :white_check_mark: The Shock doctrine
-- :white_check_mark: This Change Everything
-- :white_check_mark: The Rational Optimist
-- :white_check_mark: Curso urgente de politica para gente decente
-- :clock630: Why Nations Fail
+- :white_check_mark: The Shock doctrine - [Link](http://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999/ref=sr_1_1?s=books&ie=UTF8&qid=1459159525&sr=1-1&keywords=the+shock+doctrine)
+- :white_check_mark: This Change Everything - [Link](http://www.amazon.com/This-Changes-Everything-Capitalism-Climate/dp/1451697384/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159588&sr=1-1)
+- :white_check_mark: The Rational Optimist - [Link](http://www.amazon.com/Rational-Optimist-How-Prosperity-Evolves/dp/006145205X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159624&sr=1-1)
+- :white_check_mark: Curso urgente de politica para gente decente - [Link](http://www.amazon.com/Curso-urgente-tica-gente-decente/dp/8432220817/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1459159656&sr=1-1)
+- :clock630: Why Nations Fail - [Link](http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719219/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159699&sr=1-1)
 
 ## History
 - :white_check_mark: The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution
