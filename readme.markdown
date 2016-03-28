@@ -40,8 +40,8 @@ If you have book recommendations for me, please create a Pull Request adding a l
 - :clock630: Why Nations Fail - [Link](http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719219/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159699&sr=1-1)
 
 ## History
-- :white_check_mark: The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution
-- :white_check_mark: Sapiens a Brief History of Humanity
+- :white_check_mark: The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution - [Link](http://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/147670869X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159792&sr=1-1)
+- :white_check_mark: Sapiens a Brief History of Humankind - [Link](http://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/ref=sr_1_1?s=books&ie=UTF8&qid=1459159838&sr=1-1&keywords=Sapiens+a+Brief+History+of+Humanity)
 
 ## Science
 
