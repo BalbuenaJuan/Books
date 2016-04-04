@@ -12,11 +12,11 @@ Si tienes alguna sugerencia de libros para mi, porfavor cre un Pull Request y a�
 
 ## Novels
 
-- :white_check_mark: El Marciano - [Link](http://www.amazon.com/Martian-Novel-Andy-Weir/dp/0804139024/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1458993845&sr=8-2)
-- :white_check_mark: La Chica Mecánica - [Link](http://www.amazon.com/Windup-Girl-Paolo-Bacigalupi/dp/1597801577/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1458993930&sr=1-1)
-- :white_check_mark: El Índice del Miedo - [Link](http://www.amazon.com/Fear-Index-Robert-Harris/dp/0307948110/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1458994005&sr=1-1)
-- :white_check_mark: La gente de Smiley - [Link](http://www.amazon.com/Smileys-People-George-Smiley-Novel/dp/014311977X/ref=sr_1_1?s=books&ie=UTF8&qid=1458994121&sr=1-1&keywords=The+Smiley+people)
-- :white_check_mark: La Ciudad y la Ciudad - [Link](http://www.amazon.com/City-Random-House-Readers-Circle/dp/034549752X/ref=sr_1_1?s=books&ie=UTF8&qid=1458994170&sr=1-1&keywords=the+city+and+the+city)
+- :white_check_mark: El Marciano - [Link](https://www.amazon.es/Marciano-El-Andy-Weir/dp/6074808295/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1459770845&sr=8-1)
+- :white_check_mark: La Chica Mecánica - [Link](https://www.amazon.es/chica-mec%C3%A1nica-BEST-SELLER/dp/849989528X/ref=sr_1_1?ie=UTF8&qid=1459770882&sr=8-1&keywords=La+Chica+Mec%C3%A1nica)
+- :white_check_mark: El Índice del Miedo - [Link](https://www.amazon.es/ndice-Del-Miedo-NOVELA-INTRIGA/dp/8425348498/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459770912&sr=8-1)
+- :white_check_mark: La gente de Smiley - [Link](https://www.amazon.es/gente-Smiley-Agente-ebook/dp/B006FHKY8A/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1459770942&sr=8-1)
+- :white_check_mark: La Ciudad y la Ciudad - [Link](https://www.amazon.es/ciudad-Solaris-ficci-n/dp/8498007682/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1459770973&sr=8-1)
 
 ## Web Development
 
