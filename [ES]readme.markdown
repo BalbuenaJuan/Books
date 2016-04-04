@@ -21,10 +21,10 @@ Si tienes alguna sugerencia de libros para mi, porfavor cre un Pull Request y a√
 ## Web Development
 
 - :white_check_mark: Smashing Book #4 - [Link](https://shop.smashingmagazine.com/products/smashing-book-4-ebooks)
-- :white_check_mark: JavaScript & jQuery (Missing Manuals) - [Link](http://www.amazon.com/JavaScript-jQuery-Missing-Manual-Manuals/dp/1491947071/ref=sr_1_1?ie=UTF8&qid=1458994376&sr=8-1&keywords=javascript+and+jquery+the+missing+manual)
-- :clock630: Eloquent JavaScript - [Link](http://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=sr_1_1?s=books&ie=UTF8&qid=1458994409&sr=1-1&keywords=eloquent+javascript)
-- :soon: JavaScript The Good Parts - [Link](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?s=books&ie=UTF8&qid=1458994450&sr=1-1&keywords=javascript+the+good+parts)
-- :soon: Secrets of the JavaScript Ninja - [Link](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/ref=sr_1_1?s=books&ie=UTF8&qid=1458994488&sr=1-1&keywords=ninja+javascript)
+- :white_check_mark: JavaScript & jQuery (Missing Manuals) - [Link](https://www.amazon.es/JavaScript-jQuery-David-Sawyer-McFarland/dp/1491947071/ref=sr_1_1_twi_pap_1?ie=UTF8&qid=1459771041&sr=8-1&keywords=JavaScript+%26+jQuery+%28Missing+Manuals%29)
+- :clock630: Eloquent JavaScript - [Link](https://www.amazon.es/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=sr_1_1_twi_pap_1?ie=UTF8&qid=1459771072&sr=8-1&keywords=Eloquent+JavaScript)
+- :soon: JavaScript The Good Parts - [Link](https://www.amazon.es/JavaScript-Parts-Working-Shallow-Grain/dp/0596517742/ref=sr_1_1_twi_pap_1?ie=UTF8&qid=1459771099&sr=8-1&keywords=JavaScript+The+Good+Parts)
+- :soon: JavaScript Ninja - [Link](https://www.amazon.es/JavaScript-Ninja-Anaya-Multimedia-Manning/dp/8441533970/ref=sr_1_2?ie=UTF8&qid=1459771126&sr=8-2&keywords=javascript+ninja)
 
 ## Essay
 
