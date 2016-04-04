@@ -4,7 +4,7 @@
 
 Si tienes alguna sugerencia de libros para mi, porfavor cre un Pull Request y añade un link al final de [inbox.markdown](https://github.com/BalbuenaJuan/Books/blob/master/inbox.markdown).
 
-## State
+## Estado
 
 - :white_check_mark: Leído
 - :clock630: Leyendo
