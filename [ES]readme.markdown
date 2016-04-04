@@ -28,22 +28,22 @@ Si tienes alguna sugerencia de libros para mi, porfavor cre un Pull Request y a�
 
 ## Essay
 
-- :white_check_mark: Pensar Rápido, Pensar Despacio - [Link](http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374275637/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1458994704&sr=1-1)
-- :white_check_mark: El Cisne Negro - [Link](http://www.amazon.com/Black-Swan-Impact-Improbable-Incerto/dp/1400063515/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1458994745&sr=1-1)
+- :white_check_mark: Pensar Rápido, Pensar Despacio - [Link](https://www.amazon.es/Pensar-r-pido-pensar-despacio-DEBATE/dp/8483068613/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459771206&sr=8-1)
+- :white_check_mark: El Cisne Negro - [Link](https://www.amazon.es/cisne-negro-improbable-Divulgaci%C3%B3n-Actualidad/dp/8408008544/ref=sr_1_1_twi_per_1?ie=UTF8&qid=1459771232&sr=8-1&keywords=El+Cisne+Negro)
 
 ## Society
 
-- :white_check_mark: La Doctrina del Shock - [Link](http://www.amazon.com/Shock-Doctrine-Rise-Disaster-Capitalism/dp/0312427999/ref=sr_1_1?s=books&ie=UTF8&qid=1459159525&sr=1-1&keywords=the+shock+doctrine)
-- :white_check_mark: Esto lo Cambia todo - [Link](http://www.amazon.com/This-Changes-Everything-Capitalism-Climate/dp/1451697384/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159588&sr=1-1)
-- :white_check_mark: El Optimista Racional - [Link](http://www.amazon.com/Rational-Optimist-How-Prosperity-Evolves/dp/006145205X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159624&sr=1-1)
+- :white_check_mark: La Doctrina del Shock - [Link](https://www.amazon.es/doctrina-del-shock-capitalismo-Divulgaci%C3%B3n/dp/8408006738/ref=sr_1_1?ie=UTF8&qid=1459771279&sr=8-1&keywords=La+Doctrina+del+Shock)
+- :white_check_mark: Esto lo Cambia todo - [Link](https://www.amazon.es/Esto-Cambia-Todo-Estado-Sociedad/dp/8449331021/ref=sr_1_1_twi_per_1?ie=UTF8&qid=1459771301&sr=8-1&keywords=Esto+lo+Cambia+todo)
+- :white_check_mark: El Optimista Racional - [Link](https://www.amazon.es/El-optimista-racional-capacidad-PENSAMIENTO/dp/8430608109/ref=sr_1_1?ie=UTF8&qid=1459771325&sr=8-1&keywords=El+Optimista+Racional)
 - :white_check_mark: Curso urgente de politica para gente decente - [Link](http://www.amazon.com/Curso-urgente-tica-gente-decente/dp/8432220817/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1459159656&sr=1-1)
-- :clock630: Por que Fracasan los Países - [Link](http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719219/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159699&sr=1-1)
+- :clock630: Por que Fracasan los Países - [Link](https://www.amazon.es/Por-Qu%C3%A9-Fracasan-Pa%C3%ADses-Divulgaci%C3%B3n/dp/8423418901/ref=sr_1_1?ie=UTF8&qid=1459771356&sr=8-1&keywords=Por+que+Fracasan+los+Pa%C3%ADses)
 
 ## History
-- :white_check_mark: Los Innovadores: Como un Grupo de Hackers, Genios, y Geeks Crearon la Revolucion Digital - [Link](http://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/147670869X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159792&sr=1-1)
-- :white_check_mark: Sapiens de Animales a Dioses - [Link](http://www.amazon.com/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095/ref=sr_1_1?s=books&ie=UTF8&qid=1459159838&sr=1-1&keywords=Sapiens+a+Brief+History+of+Humanity)
+- :white_check_mark: Los Innovadores: Como un Grupo de Hackers, Genios, y Geeks Crearon la Revolucion Digital - [Link](https://www.amazon.es/Innovadores-Los-Genios-Inventaron-Futuro/dp/1101873280/ref=sr_1_fkmr0_1?ie=UTF8&qid=1459771384&sr=8-1-fkmr0&keywords=Los+Innovadores%3A+Como+un+Grupo+de+Hackers%2C+Genios%2C+y+Geeks+Crearon+la+Revolucion+Digital)
+- :white_check_mark: Sapiens de Animales a Dioses - [Link](https://www.amazon.es/Animales-Dioses-Sapiens-DEBATE/dp/8499926223/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459771412&sr=8-1)
 
 ## Science
 
-- :white_check_mark: Origenes - [Link](http://www.amazon.com/Origins-Fourteen-Billion-Cosmic-Evolution/dp/0393350398/ref=sr_1_sc_1?ie=UTF8&qid=1459018126&sr=8-1-spell&keywords=origins+neyl)
-- :white_check_mark: Explicar el Mundo - [Link](http://www.amazon.com/Explain-World-Discovery-Modern-Science/dp/0062346652/ref=mt_hardcover?_encoding=UTF8&me=)
+- :white_check_mark: Origenes - [Link](https://www.amazon.es/Or%C3%ADgenes-Contextos-Neil-deGrasse-Tyson/dp/8449330726/ref=sr_1_3_twi_per_1?ie=UTF8&qid=1459771444&sr=8-3&keywords=Origenes)
+- :white_check_mark: Explicar el Mundo - [Link](https://www.amazon.es/Explicar-Mundo-PENSAMIENTO-WEINBERG-STEVEN/dp/8430617248/ref=sr_1_1?ie=UTF8&qid=1459771470&sr=8-1&keywords=Explicar+el+Mundo)
