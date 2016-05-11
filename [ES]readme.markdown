@@ -31,14 +31,14 @@ Si tienes alguna sugerencia de libros para mi, porfavor cre un Pull Request y a�
 - :white_check_mark: Pensar Rápido, Pensar Despacio - [Link](https://www.amazon.es/Pensar-r-pido-pensar-despacio-DEBATE/dp/8483068613/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459771206&sr=8-1)
 - :white_check_mark: El Cisne Negro - [Link](https://www.amazon.es/cisne-negro-improbable-Divulgaci%C3%B3n-Actualidad/dp/8408008544/ref=sr_1_1_twi_per_1?ie=UTF8&qid=1459771232&sr=8-1&keywords=El+Cisne+Negro)
 
-## Sociedad
+## Sociedad - Economía
 
 - :white_check_mark: La Doctrina del Shock - [Link](https://www.amazon.es/doctrina-del-shock-capitalismo-Divulgaci%C3%B3n/dp/8408006738/ref=sr_1_1?ie=UTF8&qid=1459771279&sr=8-1&keywords=La+Doctrina+del+Shock)
 - :white_check_mark: Esto lo Cambia todo - [Link](https://www.amazon.es/Esto-Cambia-Todo-Estado-Sociedad/dp/8449331021/ref=sr_1_1_twi_per_1?ie=UTF8&qid=1459771301&sr=8-1&keywords=Esto+lo+Cambia+todo)
 - :white_check_mark: El Optimista Racional - [Link](https://www.amazon.es/El-optimista-racional-capacidad-PENSAMIENTO/dp/8430608109/ref=sr_1_1?ie=UTF8&qid=1459771325&sr=8-1&keywords=El+Optimista+Racional)
 - :white_check_mark: Curso urgente de politica para gente decente - [Link](http://www.amazon.com/Curso-urgente-tica-gente-decente/dp/8432220817/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1459159656&sr=1-1)
 - :clock630: Por que Fracasan los Países - [Link](https://www.amazon.es/Por-Qu%C3%A9-Fracasan-Pa%C3%ADses-Divulgaci%C3%B3n/dp/8423418901/ref=sr_1_1?ie=UTF8&qid=1459771356&sr=8-1&keywords=Por+que+Fracasan+los+Pa%C3%ADses)
-
+- :soon: El Capital en el Siglo XXI - [Link](https://www.amazon.es/El-Capital-Siglo-XXI-ECONOM%C3%8DA/dp/8490565473/ref=sr_1_1?s=books&ie=UTF8&qid=1462967902&sr=1-1&keywords=el+capital+en+el+siglo+xxi)
 ## Historia
 - :white_check_mark: Los Innovadores: Los Genios que Inventaron el Futuro - [Link](https://www.amazon.es/Innovadores-Los-Genios-Inventaron-Futuro/dp/1101873280/ref=sr_1_fkmr0_1?ie=UTF8&qid=1459771384&sr=8-1-fkmr0&keywords=Los+Innovadores%3A+Como+un+Grupo+de+Hackers%2C+Genios%2C+y+Geeks+Crearon+la+Revolucion+Digital)
 - :white_check_mark: Sapiens de Animales a Dioses - [Link](https://www.amazon.es/Animales-Dioses-Sapiens-DEBATE/dp/8499926223/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459771412&sr=8-1)
