@@ -39,7 +39,9 @@ Si tienes alguna sugerencia de libros para mi, porfavor haz un Pull Request y a√
 - :white_check_mark: Curso urgente de politica para gente decente - [Link](http://www.amazon.com/Curso-urgente-tica-gente-decente/dp/8432220817/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1459159656&sr=1-1)
 - :clock630: Por que Fracasan los Pa√≠ses - [Link](https://www.amazon.es/Por-Qu%C3%A9-Fracasan-Pa%C3%ADses-Divulgaci%C3%B3n/dp/8423418901/ref=sr_1_1?ie=UTF8&qid=1459771356&sr=8-1&keywords=Por+que+Fracasan+los+Pa%C3%ADses)
 - :soon: El Capital en el Siglo XXI - [Link](https://www.amazon.es/El-Capital-Siglo-XXI-ECONOM%C3%8DA/dp/8490565473/ref=sr_1_1?s=books&ie=UTF8&qid=1462967902&sr=1-1&keywords=el+capital+en+el+siglo+xxi)
+
 ## Historia
+
 - :white_check_mark: Los Innovadores: Los Genios que Inventaron el Futuro - [Link](https://www.amazon.es/Innovadores-Los-Genios-Inventaron-Futuro/dp/1101873280/ref=sr_1_fkmr0_1?ie=UTF8&qid=1459771384&sr=8-1-fkmr0&keywords=Los+Innovadores%3A+Como+un+Grupo+de+Hackers%2C+Genios%2C+y+Geeks+Crearon+la+Revolucion+Digital)
 - :white_check_mark: Sapiens de Animales a Dioses - [Link](https://www.amazon.es/Animales-Dioses-Sapiens-DEBATE/dp/8499926223/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459771412&sr=8-1)
 
