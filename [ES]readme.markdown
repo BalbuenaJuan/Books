@@ -24,6 +24,8 @@ Si tienes alguna sugerencia de libros para mi, porfavor cre un Pull Request y a√
 - :white_check_mark: JavaScript & jQuery (Missing Manuals) - [Link](https://www.amazon.es/JavaScript-jQuery-David-Sawyer-McFarland/dp/1491947071/ref=sr_1_1_twi_pap_1?ie=UTF8&qid=1459771041&sr=8-1&keywords=JavaScript+%26+jQuery+%28Missing+Manuals%29)
 - :clock630: Eloquent JavaScript - [Link](https://www.amazon.es/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=sr_1_1_twi_pap_1?ie=UTF8&qid=1459771072&sr=8-1&keywords=Eloquent+JavaScript)
 - :soon: JavaScript The Good Parts - [Link](https://www.amazon.es/JavaScript-Parts-Working-Shallow-Grain/dp/0596517742/ref=sr_1_1_twi_pap_1?ie=UTF8&qid=1459771099&sr=8-1&keywords=JavaScript+The+Good+Parts)
+- :soon: Introduction to Algorithms
+[Link](https://www.amazon.es/dp/0262533057/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=2VU7E50GNYAAS&coliid=I19ZC4JUIWNGJC)
 - :soon: JavaScript Ninja - [Link](https://www.amazon.es/JavaScript-Ninja-Anaya-Multimedia-Manning/dp/8441533970/ref=sr_1_2?ie=UTF8&qid=1459771126&sr=8-2&keywords=javascript+ninja)
 
 ## Ensayo
@@ -39,7 +41,9 @@ Si tienes alguna sugerencia de libros para mi, porfavor cre un Pull Request y a√
 - :white_check_mark: Curso urgente de politica para gente decente - [Link](http://www.amazon.com/Curso-urgente-tica-gente-decente/dp/8432220817/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1459159656&sr=1-1)
 - :clock630: Por que Fracasan los Pa√≠ses - [Link](https://www.amazon.es/Por-Qu%C3%A9-Fracasan-Pa%C3%ADses-Divulgaci%C3%B3n/dp/8423418901/ref=sr_1_1?ie=UTF8&qid=1459771356&sr=8-1&keywords=Por+que+Fracasan+los+Pa%C3%ADses)
 - :soon: El Capital en el Siglo XXI - [Link](https://www.amazon.es/El-Capital-Siglo-XXI-ECONOM%C3%8DA/dp/8490565473/ref=sr_1_1?s=books&ie=UTF8&qid=1462967902&sr=1-1&keywords=el+capital+en+el+siglo+xxi)
+
 ## Historia
+
 - :white_check_mark: Los Innovadores: Los Genios que Inventaron el Futuro - [Link](https://www.amazon.es/Innovadores-Los-Genios-Inventaron-Futuro/dp/1101873280/ref=sr_1_fkmr0_1?ie=UTF8&qid=1459771384&sr=8-1-fkmr0&keywords=Los+Innovadores%3A+Como+un+Grupo+de+Hackers%2C+Genios%2C+y+Geeks+Crearon+la+Revolucion+Digital)
 - :white_check_mark: Sapiens de Animales a Dioses - [Link](https://www.amazon.es/Animales-Dioses-Sapiens-DEBATE/dp/8499926223/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459771412&sr=8-1)
 

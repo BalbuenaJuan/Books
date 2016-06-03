@@ -1,4 +1,4 @@
-# Reads 
+# Reads
 
 > :books: A list of physical books I was read, Im reading and I will read
 
@@ -24,6 +24,7 @@ If you have book recommendations for me, please create a Pull Request adding a l
 - :white_check_mark: JavaScript & jQuery (Missing Manuals) - [Link](http://www.amazon.com/JavaScript-jQuery-Missing-Manual-Manuals/dp/1491947071/ref=sr_1_1?ie=UTF8&qid=1458994376&sr=8-1&keywords=javascript+and+jquery+the+missing+manual)
 - :clock630: Eloquent JavaScript - [Link](http://www.amazon.com/Eloquent-JavaScript-Modern-Introduction-Programming/dp/1593275846/ref=sr_1_1?s=books&ie=UTF8&qid=1458994409&sr=1-1&keywords=eloquent+javascript)
 - :soon: JavaScript The Good Parts - [Link](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?s=books&ie=UTF8&qid=1458994450&sr=1-1&keywords=javascript+the+good+parts)
+- :soon: Introduction to Algorithms [Link](http://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=sr_1_1?ie=UTF8&qid=1464948088&sr=8-1&keywords=Introduction+to+Algorithms)
 - :soon: Secrets of the JavaScript Ninja - [Link](http://www.amazon.com/Secrets-JavaScript-Ninja-John-Resig/dp/1617292850/ref=sr_1_1?s=books&ie=UTF8&qid=1458994488&sr=1-1&keywords=ninja+javascript)
 
 ## Essay
@@ -37,7 +38,7 @@ If you have book recommendations for me, please create a Pull Request adding a l
 - :white_check_mark: This Change Everything - [Link](http://www.amazon.com/This-Changes-Everything-Capitalism-Climate/dp/1451697384/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159588&sr=1-1)
 - :white_check_mark: The Rational Optimist - [Link](http://www.amazon.com/Rational-Optimist-How-Prosperity-Evolves/dp/006145205X/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159624&sr=1-1)
 - :white_check_mark: Curso urgente de politica para gente decente - [Link](http://www.amazon.com/Curso-urgente-tica-gente-decente/dp/8432220817/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1459159656&sr=1-1)
-- :clock630: Why Nations Fail - [Link](http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719219/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159699&sr=1-1)
+- :white_check_mark: Why Nations Fail - [Link](http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719219/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459159699&sr=1-1)
 - :soon: Capital in the Twenty-First Century - [Link](http://www.amazon.com/Capital-Twenty-First-Century-Thomas-Piketty/dp/067443000X/ref=sr_1_1?s=books&ie=UTF8&qid=1462967775&sr=1-1&keywords=the+capital+in+the+21st+century)
 
 ## History
