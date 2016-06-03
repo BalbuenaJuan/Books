@@ -2,7 +2,7 @@
 
 > :books: Una lista de los libro físios que he leído, estoy leyendo y leere.
 
-Si tienes alguna sugerencia de libros para mi, porfavor cre un Pull Request y añade un link al final de [inbox.markdown](https://github.com/BalbuenaJuan/Books/blob/master/inbox.markdown).
+Si tienes alguna sugerencia de libros para mi, porfavor haz un Pull Request y añade un link al final de [inbox.markdown](https://github.com/BalbuenaJuan/Books/blob/master/inbox.markdown).
 
 ## Estado
 
