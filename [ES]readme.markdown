@@ -17,6 +17,7 @@ Si tienes alguna sugerencia de libros para mi, porfavor haz un Pull Request y a√
 - :white_check_mark: El √çndice del Miedo - [Link](https://www.amazon.es/ndice-Del-Miedo-NOVELA-INTRIGA/dp/8425348498/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=1459770912&sr=8-1)
 - :white_check_mark: La gente de Smiley - [Link](https://www.amazon.es/gente-Smiley-Agente-ebook/dp/B006FHKY8A/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1459770942&sr=8-1)
 - :white_check_mark: La Ciudad y la Ciudad - [Link](https://www.amazon.es/ciudad-Solaris-ficci-n/dp/8498007682/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1459770973&sr=8-1)
+- :white_check_mark: Ready Player One - [Link](https://www.amazon.es/Ready-player-one-Grandes-novelas/dp/8466649174/ref=sr_1_1_twi_pap_2?s=books&ie=UTF8&qid=1488554005&sr=1-1&keywords=ready+player+one)
 
 ## Web Development
 
@@ -40,6 +41,7 @@ Si tienes alguna sugerencia de libros para mi, porfavor haz un Pull Request y a√
 - :white_check_mark: El Optimista Racional - [Link](https://www.amazon.es/El-optimista-racional-capacidad-PENSAMIENTO/dp/8430608109/ref=sr_1_1?ie=UTF8&qid=1459771325&sr=8-1&keywords=El+Optimista+Racional)
 - :white_check_mark: Curso urgente de politica para gente decente - [Link](http://www.amazon.com/Curso-urgente-tica-gente-decente/dp/8432220817/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1459159656&sr=1-1)
 - :white_check_mark: Por que Fracasan los Pa√≠ses - [Link](https://www.amazon.es/Por-Qu%C3%A9-Fracasan-Pa%C3%ADses-Divulgaci%C3%B3n/dp/8423418901/ref=sr_1_1?ie=UTF8&qid=1459771356&sr=8-1&keywords=Por+que+Fracasan+los+Pa%C3%ADses)
+- :white_check_mark: Econom√≠a sin corbata - [Link](https://www.amazon.es/Econom%C3%ADa-Sin-Corbata-Conversaciones-Hija/dp/8408141910/ref=sr_1_1_twi_pap_1?s=books&ie=UTF8&qid=1488554070&sr=1-1&keywords=economia+sin+corbata)
 - :clock630: El Capital en el Siglo XXI - [Link](https://www.amazon.es/El-Capital-Siglo-XXI-ECONOM%C3%8DA/dp/8490565473/ref=sr_1_1?s=books&ie=UTF8&qid=1462967902&sr=1-1&keywords=el+capital+en+el+siglo+xxi)
 
 ## Historia
@@ -51,3 +53,4 @@ Si tienes alguna sugerencia de libros para mi, porfavor haz un Pull Request y a√
 
 - :white_check_mark: Origenes - [Link](https://www.amazon.es/Or%C3%ADgenes-Contextos-Neil-deGrasse-Tyson/dp/8449330726/ref=sr_1_3_twi_per_1?ie=UTF8&qid=1459771444&sr=8-3&keywords=Origenes)
 - :white_check_mark: Explicar el Mundo - [Link](https://www.amazon.es/Explicar-Mundo-PENSAMIENTO-WEINBERG-STEVEN/dp/8430617248/ref=sr_1_1?ie=UTF8&qid=1459771470&sr=8-1&keywords=Explicar+el+Mundo)
+- :white_check_mark:La Teor√≠a del Todo - [Link](https://www.amazon.es/Teor%C3%ADa-Del-Todo-ENSAYO-CIENCIA/dp/8483468913/ref=sr_1_1_twi_pap_1?s=books&ie=UTF8&qid=1488554117&sr=1-1&keywords=la+teor%C3%ADa+del+todo)
