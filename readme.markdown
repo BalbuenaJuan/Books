@@ -54,3 +54,4 @@ If you have book recommendations for me, please create a Pull Request adding a l
 - :white_check_mark: Origins - [Link](http://www.amazon.com/Origins-Fourteen-Billion-Cosmic-Evolution/dp/0393350398/ref=sr_1_sc_1?ie=UTF8&qid=1459018126&sr=8-1-spell&keywords=origins+neyl)
 - :white_check_mark: To Explain The World - [Link](http://www.amazon.com/Explain-World-Discovery-Modern-Science/dp/0062346652/ref=mt_hardcover?_encoding=UTF8&me=)
 - :white_check_mark: The Theory of Everything: The Origin and Fate of the Universe - [Link](https://www.amazon.com/Theory-Everything-Origin-Fate-Universe/dp/1597775088/ref=sr_1_1_twi_har_1?s=books&ie=UTF8&qid=1488552168&sr=1-1&keywords=the+theory+of+everything+the+origin+and+fate+of+the+universe)
+- :clock630: The Beginning of Infinite - [Link](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0670022756/ref=mt_hardcover?_encoding=UTF8&me=)

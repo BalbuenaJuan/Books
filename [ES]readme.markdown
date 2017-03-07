@@ -53,4 +53,5 @@ Si tienes alguna sugerencia de libros para mi, porfavor haz un Pull Request y a�
 
 - :white_check_mark: Origenes - [Link](https://www.amazon.es/Or%C3%ADgenes-Contextos-Neil-deGrasse-Tyson/dp/8449330726/ref=sr_1_3_twi_per_1?ie=UTF8&qid=1459771444&sr=8-3&keywords=Origenes)
 - :white_check_mark: Explicar el Mundo - [Link](https://www.amazon.es/Explicar-Mundo-PENSAMIENTO-WEINBERG-STEVEN/dp/8430617248/ref=sr_1_1?ie=UTF8&qid=1459771470&sr=8-1&keywords=Explicar+el+Mundo)
-- :white_check_mark:La Teoría del Todo - [Link](https://www.amazon.es/Teor%C3%ADa-Del-Todo-ENSAYO-CIENCIA/dp/8483468913/ref=sr_1_1_twi_pap_1?s=books&ie=UTF8&qid=1488554117&sr=1-1&keywords=la+teor%C3%ADa+del+todo)
+- :white_check_mark: La Teoría del Todo - [Link](https://www.amazon.es/Teor%C3%ADa-Del-Todo-ENSAYO-CIENCIA/dp/8483468913/ref=sr_1_1_twi_pap_1?s=books&ie=UTF8&qid=1488554117&sr=1-1&keywords=la+teor%C3%ADa+del+todo)
+- :clock630: El Comienzo del Infinito - [Link](https://www.amazon.es/comienzo-del-infinito-Explicaciones-transforman/dp/8415216750/ref=sr_1_1?ie=UTF8&qid=1488884257&sr=8-1&keywords=el+comienzo+del+infinito)
